@@ -27,8 +27,17 @@ This project is coded in Python3.
 - All files in homemadefood > src > components
 - App.js
 - Credit: I used some templates from material-ui to display tables, menu bar, buttons, etc. in my front end (Link: https://material-ui.com/). I modified the template to work with my data returned by my back-end, and also modified it according to my design purposes.
-## GUI References
-![](homemadefood/signin.png)
+## GUI References 
+```
+http://localhost:3000/signIn
+```
+<img src="homemadefood/signin.png" width = "400" height = "500" >
+
+```
+http://localhost:3000/signUp
+```
+
+
 ## API References
 The API will return these error types when requests fail:
 - 404: Not Found
