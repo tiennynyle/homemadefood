@@ -26,7 +26,8 @@ This project is coded in Python3.
 - main.py
 - All files in homemadefood > src > components
 - App.js
-- Credit: I used some templates from material-ui to display tables, menu bar, buttons, etc. in my front end (Link: https://material-ui.com/). I modified the template to work with my data returned by my back-end, and also modified it according to my design purposes.
+- Credit: I used some templates from material-ui to display tables, menu bar, buttons, etc. in my front end (Link: https://material-ui.com/). I modified the template to work with my data returned by my back-end, and also modified it according to my design purposes. 
+- Disclaimer: The images URLs I used for the "Photo" table in my database were found on Google Image. I do not own any photos in my database. If the images were a copyright issue, please contact me so that I will remove them.
 ## GUI References 
 ```
 http://localhost:3000/signUp
