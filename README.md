@@ -21,9 +21,10 @@ Installing dependencies, run:
 To run the front-end, run:
 ```npm start ```
 ## Files that are written by me:
-data.sql
-main.py
-All files in homemadefood > src > components
-App.js
-Credit: I used some templates from material-ui to display tables, menu bar, buttons, etc. in my front end (Link: https://material-ui.com/). I modified the template to work with my data returned by my back-end, and also modified it according to my design purposes.
+- data.sql
+
+- main.py
+- All files in homemadefood > src > components
+- App.js
+- Credit: I used some templates from material-ui to display tables, menu bar, buttons, etc. in my front end (Link: https://material-ui.com/). I modified the template to work with my data returned by my back-end, and also modified it according to my design purposes.
 ## Endpoints
