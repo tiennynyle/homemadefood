@@ -37,7 +37,8 @@ The API will return these error types when requests fail:
 #### GET /posts
 - General: Returns a list of all food posts, cursor (number of posts per page), and success value
 - Sample: 
-```{
+```
+{
 cursor: 2,
 posts: [
 {
@@ -65,7 +66,6 @@ rating: 3,
 sellerUsername: "hadang72"
 }
 ],
-success: true}``` 
-
-#### GET /comments/<int:commentID>
+success: true} 
+``` 
 
