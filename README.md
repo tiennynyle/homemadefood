@@ -29,14 +29,30 @@ This project is coded in Python3.
 - Credit: I used some templates from material-ui to display tables, menu bar, buttons, etc. in my front end (Link: https://material-ui.com/). I modified the template to work with my data returned by my back-end, and also modified it according to my design purposes.
 ## GUI References 
 ```
+http://localhost:3000/signUp
+```
+<img src="homemadefood/signup.png" width ="400" height="500" >
+```
 http://localhost:3000/signIn
 ```
 <img src="homemadefood/signin.png" width = "400" height = "500" >
 
 ```
-http://localhost:3000/signUp
+http://localhost:3000/posts
 ```
+<img src="homemadefood/posts.png" width = "600" height ="300">
 
+```
+http://localhost:3000/users
+
+```
+<img src="homemadefood/users.png" width = "600" height ="300">
+
+
+- NOTE: Please read through API references if you want to test different endpoints. The GUI did not have all buttons that link to other endpoints that I implemented in the backend. For example, if you want to see revenue of user "taile0304" for November, you can go to:
+```
+http://localhost:3000/users/taile0304/11/monthlyrevenue
+```
 
 ## API References
 The API will return these error types when requests fail:
