@@ -4,21 +4,21 @@ I decided to buil a full stack applcation that enables users to browse, comment,
 This project is coded in Python3.
 ## Getting Started
 ### Pre-requisites and Local Development
-You should already have Python3, pip, node, sqlite3 installed on your local machines
-To create a virtual environment on MacOS, run:
+- You should already have Python3, pip, node, sqlite3 installed on your local machines
+- To create a virtual environment on MacOS, run:
 ```python3 -m venv env```
-To activate the virtual environment, run:
+- To activate the virtual environment, run:
 ```source env/bin/activate```
 ## About the Stack
 ### Backend
-On MacOS, to set up all the dependencies, run:
+- On MacOS, to set up all the dependencies, run:
 ```pip install requirements.txt```
-To run the application on your local machine, run:
+- To run the application on your local machine, run:
 ```export FLASK_APP=main.py ```
 ### Frontend
-Installing dependencies, run:
+- Installing dependencies, run:
 ```npm install```
-To run the front-end, run:
+- To run the front-end, run:
 ```npm start ```
 ## Files that are written by me:
 - data.sql
