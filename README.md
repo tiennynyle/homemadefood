@@ -34,6 +34,7 @@ npm install
 
 npm start 
 ```
+-NOTE: You'll see 404 as you are on the default page. Please go to `/posts` for the "homepage".
 
 
 ## Files that are written by me:
