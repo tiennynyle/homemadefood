@@ -48,7 +48,7 @@ def delete_db(query, args):
     cursor.close()
 
 
-MAX_NUMBER_POSTS = 40
+MAX_NUMBER_POSTS = 2
 
 
 @app.route('/posts', methods=['GET'])
