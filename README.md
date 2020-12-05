@@ -15,6 +15,9 @@ This project is coded in Python3.
 ```pip install -r requirements.txt```
 - To run the application on your local machine, run:
 ```export FLASK_APP=main.py ```
+
+```python -m flask run```
+
 ### Frontend
 - Installing dependencies, run:
 ```npm install```
