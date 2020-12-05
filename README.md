@@ -1,4 +1,4 @@
-# homemadefood
+# Homemade Food Order 
 This project is an individual project for my database class. The goal of this project is to show my understanding of EER model and relational schema.
 I decided to buil a full stack applcation that enables users to browse, comment, and order home-made food. 
 This project is coded in Python3.
