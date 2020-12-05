@@ -1,5 +1,5 @@
 import { useEffect , useState} from "react";
-import {Post} from './Post'
+import {BasicTable} from './Usertable'
 import {useParams} from 'react-router-dom'
 export function DeleteUser (data) {
     const [posts, setPosts]  = useState({ posts:[], success: false});
