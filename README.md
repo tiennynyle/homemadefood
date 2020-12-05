@@ -12,7 +12,7 @@ This project is coded in Python3.
 ## About the Stack
 ### Backend
 - On MacOS, to set up all the dependencies, run:
-```pip install -a requirements.txt```
+```pip install -r requirements.txt```
 - To run the application on your local machine, run:
 ```export FLASK_APP=main.py ```
 ### Frontend
