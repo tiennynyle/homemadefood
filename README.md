@@ -23,10 +23,10 @@ python -m flask run
 ```
 
 ### Frontend
-- Installing dependencies and to run the front-end, run:
+- To install dependencies and to run the front-end, in another terminal,locate to the project folder and run:
 
 ```
-cd homemadefood
+cd front_end
 
 
 npm install
