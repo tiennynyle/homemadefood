@@ -26,7 +26,7 @@ python -m flask run
 - Installing dependencies and to run the front-end, run:
 
 ```
-cd front_end
+cd homemadefood
 
 
 npm install
