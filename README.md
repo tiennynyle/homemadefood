@@ -47,24 +47,24 @@ npm start
 ```
 http://localhost:3000/signUp
 ```
-<img src="homemadefood/signup.png" width ="400" height="500" >
+<img src="front_end/signup.png" width ="400" height="500" >
 
 ```
 http://localhost:3000/signIn
 ```
 
-<img src="homemadefood/signin.png" width = "400" height = "500" >
+<img src="front_end/signin.png" width = "400" height = "500" >
 
 ```
 http://localhost:3000/posts
 ```
-<img src="homemadefood/posts.png" width = "600" height ="300">
+<img src="front_end/posts.png" width = "600" height ="300">
 
 ```
 http://localhost:3000/users
 
 ```
-<img src="homemadefood/users.png" width = "600" height ="300">
+<img src="front_end/users.png" width = "600" height ="300">
 
 
 - NOTE: Please read through API references if you want to test different endpoints. The GUI did not have all buttons that link to other endpoints that I implemented in the backend. For example, if you want to see revenue of user "taile0304" for November, you can go to:
