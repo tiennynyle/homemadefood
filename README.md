@@ -13,7 +13,7 @@ This project is coded in Python3.
 ### Backend
 - On MacOS, to set up all the dependencies, run:
 ```pip install -r requirements.txt```
-- To run the application on your local machine, go to the backend folder and run:
+- To run the application on your local machine, go to the back_end folder and run:
 ```export FLASK_APP=main.py ```
 
 ```python -m flask run```
