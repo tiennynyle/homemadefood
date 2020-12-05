@@ -12,21 +12,30 @@ This project is coded in Python3.
 ## About the Stack
 ### Backend
 - On MacOS, to set up all the dependencies and to run the application on your local machine, run:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
 
-```cd back_end```
+cd back_end
 
-```export FLASK_APP=main.py ```
+export FLASK_APP=main.py 
 
-```python -m flask run```
+python -m flask run
+```
 
 ### Frontend
 - Installing dependencies and to run the front-end, run:
-```cd front_end```
 
-```npm install```
+```
+cd front_end
 
-```npm start ```
+
+npm install
+
+
+npm start 
+```
+
+
 ## Files that are written by me:
 - data.sql
 - main.py
