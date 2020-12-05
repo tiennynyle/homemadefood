@@ -11,21 +11,24 @@ This project is coded in Python3.
 ```source env/bin/activate```
 ## About the Stack
 ### Backend
-- On MacOS, to set up all the dependencies, run:
+- On MacOS, to set up all the dependencies and to run the application on your local machine, run:
 ```pip install -r requirements.txt```
-- To run the application on your local machine, go to the back_end folder and run:
+
+```cd back_end```
+
 ```export FLASK_APP=main.py ```
 
 ```python -m flask run```
 
 ### Frontend
-- Installing dependencies, run:
+- Installing dependencies and to run the front-end, run:
+```cd front_end```
+
 ```npm install```
-- To run the front-end, run:
+
 ```npm start ```
 ## Files that are written by me:
 - data.sql
-
 - main.py
 - All files in homemadefood > src > components
 - App.js
